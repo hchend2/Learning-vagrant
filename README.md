@@ -21,9 +21,7 @@ Ensure the following tools are installed on your system. Use official websites o
 | Docker Desktop         | ❌ Optional | For GUI usage                           |
 | Vagrant                | ✅ Yes   | https://www.vagrantup.com/downloads     |
 | Visual Studio Code     | ✅ Yes   | https://code.visualstudio.com           |
-| Google Chrome          | ✅ Yes   | https://www.google.com/chrome/          |
-| Discord (software and account)      | ✅ Yes   | https://discord.com                     |
-| Slack (software and account)        | ✅ Yes   | https://slack.com                       |
+
 
 ### 🔧 Verification
 After installation, verify using terminal:
